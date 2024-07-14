@@ -5,6 +5,7 @@ This project implements a segment tree, a powerful data structure used to store 
 
 ## Project Structure
 
+```
 ├── MaximumSegmentTreeByArray.java
 ├── MaximumSegmentTreeByTree.java
 ├── MinimumSegmentTreeByArray.java
@@ -20,6 +21,7 @@ This project implements a segment tree, a powerful data structure used to store 
 ├── SummationSegmentTreeByTree.java
 ├── Tester.java
 └── README.md
+```
 
 ## Description
 
